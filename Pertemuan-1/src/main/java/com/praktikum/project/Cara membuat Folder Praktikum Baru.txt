@@ -1,0 +1,5 @@
+membuat Folder 
+mvn archetype:generate -DgroupId=com.project.praktikum -DartifactId=praktikum1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+Menginstall Library yang dibutuhkan
+mvn clean install
